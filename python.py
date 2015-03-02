@@ -1,5 +1,1 @@
-def helloWorld():
-    print("Hello, World!")
-
-
-helloWorld()
+print("Hello, World!")
